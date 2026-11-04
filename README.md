@@ -74,8 +74,10 @@ Here are some ideas to get you started:
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" alt="PostgreSQL, MySQL, MongoDB and Supabase" />
 </p>
+
+Also familiar with: Microsoft SQL Server.
 
 **Tools & Environment**
 
