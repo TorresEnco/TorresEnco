@@ -130,37 +130,17 @@ An operational web platform designed to streamline customer communications and r
 ## GitHub Activity
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=TorresEnco&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=TorresEnco&show_icons=true&hide_border=true&theme=transparent&title_color=0369A1&icon_color=0369A1&text_color=475569"
-    />
-    <img
-      height="145"
-      src="https://github-readme-stats.vercel.app/api?username=TorresEnco&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"
-      alt="GitHub statistics"
-    />
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresEnco&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresEnco&layout=compact&hide_border=true&theme=transparent&title_color=0369A1&text_color=475569"
-    />
-    <img
-      height="145"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresEnco&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"
-      alt="Most used programming languages"
-    />
-  </picture>
+  <img 
+    height="160" 
+    src="https://github-stats-extended.vercel.app/api?username=TorresEnco&show_icons=true&theme=nord&hide_border=true&title_color=88C0D0&icon_color=88C0D0&text_color=D8DEE9&bg_color=0F172A" 
+    alt="GitHub statistics" 
+  />
+  &nbsp;&nbsp;
+  <img 
+    height="160" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TorresEnco&layout=compact&theme=nord&hide_border=true&title_color=88C0D0&text_color=D8DEE9&bg_color=0F172A" 
+    alt="Top Languages" 
+  />
 </div>
 
 ---
