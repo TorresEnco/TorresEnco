@@ -127,24 +127,6 @@ An operational web platform designed to streamline customer communications and r
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img 
-    height="160" 
-    src="https://github-stats-extended.vercel.app/api?username=TorresEnco&show_icons=true&theme=nord&hide_border=true&title_color=88C0D0&icon_color=88C0D0&text_color=D8DEE9&bg_color=0F172A" 
-    alt="GitHub statistics" 
-  />
-  &nbsp;&nbsp;
-  <img 
-    height="160" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TorresEnco&layout=compact&theme=nord&hide_border=true&title_color=88C0D0&text_color=D8DEE9&bg_color=0F172A" 
-    alt="Top Languages" 
-  />
-</div>
-
----
-
 ## Beyond the Code
 
 - **Mindset:** Analytical thinking, software architecture principles, and continuous learning.
